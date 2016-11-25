@@ -1,0 +1,25 @@
+{
+  "name": "uuling/think-socialite",
+  "description": "A collection of OAuth 2 packages for the thinkphp5 that extracts from laravel/socialite.",
+  "keywords": [
+    "social",
+    "login",
+    "Weibo",
+    "WeChat",
+    "QQ"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Uuling\\Socialite\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "uuling"
+    }
+  ]
+}
